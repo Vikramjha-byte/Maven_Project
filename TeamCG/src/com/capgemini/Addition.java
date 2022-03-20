@@ -1,4 +1,21 @@
 package com.capgemini;
+class Bik{
+	private int v;
+
+	public Bik(int v) {
+		super();
+		this.v = v;
+	}
+
+	public int getV() {
+		return v;
+	}
+
+	public void setV(int v) {
+		this.v = v;
+	}
+	
+}
 
 public class Addition {
 
